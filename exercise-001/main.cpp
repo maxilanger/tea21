@@ -15,6 +15,6 @@ auto main(int argc, char **argv) -> int
      * it is much more convenient than std::cout and printf
      * More info at https://fmt.dev/latest/api.html
      */
-    fmt::print("Hello, {}!\n", "he llo");
+    fmt::print("Hello, {}!\n", "he l lo");
     return 0; /* exit gracefully*/
 }
